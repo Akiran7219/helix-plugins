@@ -1,6 +1,6 @@
 PLUGIN.name = "ContainerFurniture"
 PLUGIN.author = "Akiran (DD:AkiranSWFS#5376)"
-PLUGIN.description = "Adds the ability to spawn Containers via an item, ideal if you don't want to give your players the flags."
+PLUGIN.description = "Adds the ability to spawn Containers via an item, ideal if you don't want to give flags to your player."
 
 --[[
 		Don't forget to register your container in helix/plugins/containers/sh_definitions.lua
