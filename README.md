@@ -21,5 +21,21 @@ Make sure to _REGISTER_ your Container in *helix/plugins/containers/sh_definitio
 # Admin ESP
 ## A simple ESP admin that shows you the most used entities on Helix.
 
+```
+Entity currently supported:
+	- ix_vendor and ix_vendor_new
+	- ix_questgiver
+	- ix_scavengingpile
+	- ix_container
+	- ix_money
+	- ix_item
+	- ix_shipment
+	- ix_combinelock
+	- ix_rationdispenser
+	- ix_vendingmachine
+	- ix_forcefield
+	- ix_station
+```
 If you want to add your own entity, add an entry to the _EntitiesESPList_ table.
+
 If you want to add an item category with a distinct colour, add an entry to the _ItemCategoryColor_ table with the Category name.
